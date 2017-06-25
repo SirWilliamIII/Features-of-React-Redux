@@ -1,13 +1,2 @@
-# Complete starter kit for React & Redux
-
-### NPM dependencies
-  - react/dom/redux/router
-  - redux/thunk/mock-store
-  - babel
-  - webpack
-  - nodemon
-  - file-loader
-  - mocha
-  - express
-  - eslint
-  - many more...
+# Features-of-React-Redux
+touches on many concepts between react-es6-webpack-flux(redux)
