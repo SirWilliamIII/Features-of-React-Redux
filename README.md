@@ -1,6 +1,6 @@
 # The Ultimate React-Redux boilerplate project starter
 
-### are you so angry after spending an hour installing dependencies just to crank up your React app?
+### Not sure where to begin installing dependencies for a React app?
 
 ##### Clone or download the .zip file, rename the project (in package.json as well), npm install and you're done.
 
@@ -11,3 +11,5 @@
       - which checks for errors using eslint
  * npm run lint:watch
       - runs lint script passing watch flag to eslint-watch
+ * npm run test
+ 	  - run your mocha tests from /src/index.test.js 
