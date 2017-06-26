@@ -3,4 +3,4 @@ import colors from 'colors';
 //  eslint-disable no console
 
 
-console.log('Startin app in development mode...'.green');
+console.log('Startin app in development mode...'.green);
